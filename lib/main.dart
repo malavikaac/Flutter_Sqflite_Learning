@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'Films',
       home: Home() ,
       routes: {
-        "addfilm":(context)=>AddFilm(),
+         "addfilm":(context)=>AddFilm(),
       },
     );
   }
